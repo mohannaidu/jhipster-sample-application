@@ -42,7 +42,9 @@
     "jwtSecretKey": "MGJlOTc3ZGM5ZTk3Mjg5NjgxOTkxOTQ3NDI2ODMyYTNjOGUzMjc1NzcwYzU4ODRkYjczZTBhOGEzZjA0NjY2MjYxM2IyOWE3YjVhZmZjMTM4N2U0NTNhM2U5OWI1ZWMzMzM4MzIxNmY1NDYwMWQ3MDBhOTk4MWQ0ODhkOWUzNzU=",
     "clientTheme": "none",
     "clientThemeVariant": "",
-    "reactive": false
+    "reactive": false,
+    "entities": ["Region", "Country", "Location", "Department", "Task", "Employee", "Job", "JobHistory"],
+    "lastLiquibaseTimestamp": 1623147284000
   },
   "git-provider": "GitHub",
   "git-company": "mohannaidu",
